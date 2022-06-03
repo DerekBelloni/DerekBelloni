@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Derek Belloni. I started coding during the Covid-19 pandemic as a way to pass the time and before I knew it I was enrolling at Boise Code Works in their full stack engineering program. The joy that comes from facing and overcoming whatever coding challenges come why is extremely gratifying and I am excited to program as a full time career. 
+My name's Derek Belloni. I started coding during the Covid-19 pandemic as a way to pass the time and before I knew it I was enrolling at Boise Code Works in their full stack engineering program. The joy that comes from facing and overcoming whatever coding challenges come my way is extremely gratifying and I am excited to program as a full time career. 
 
 <!--
 **DerekBelloni/DerekBelloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
